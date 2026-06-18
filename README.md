@@ -1,5 +1,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ycat1222&theme=onedark&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=ycat1222&theme=onedark&rank=-C)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://trophy.benkou.dev/?username=ycat1222&theme=onedark&rank=-C)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <!--
